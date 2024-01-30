@@ -2,8 +2,9 @@
 Projet Bash FootPrints
 
 #Projet_Bash_FootPrints
-![[digitalfootprint_head-scaled.jpg]]
+
 **
+![[digitalfootprint_head-scaled.jpg]](https://www.webassetscdn.com/avira/prod-blog/wp-content/uploads/2019/07/digitalfootprint_head-scaled.jpg)
 
 ### Contexte
 
